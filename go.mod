@@ -1,4 +1,4 @@
-module github.com/Jille/raftadmin
+module github.com/hermanbanken/raftadmin
 
 go 1.17
 
